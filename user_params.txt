@@ -60,6 +60,7 @@ KisaMaxDriverAngleWait:0.002
 KisaMaxSteerAngleWait:0.001
 KisaDriverAngleWait:0.001
 KisaSpeedLimitOffset:5
+CarModel:HYUNDAI_GENESIS
 KisaLiveSteerRatio:1
 KisaVariableSteerMax:0
 KisaVariableSteerDelta:0
