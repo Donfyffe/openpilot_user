@@ -27,7 +27,7 @@ AutoResOption:0
 AutoResCondition:1
 UFCModeEnabled:1
 KisaUIBrightnessOff:40
-AutoEnableSpeed:5
+AutoEnableSpeed:0
 SafetyCamDecelDistGain:0
 VCurvSpeedC:30,50,70,90
 VCurvSpeedT:43,58,73,87
@@ -39,7 +39,7 @@ OSMCustomSpeedLimitC:25,35,45,65,70
 OSMCustomSpeedLimitT:30,42,54,77,82
 KisaSpeedLimitOffsetOption:3
 KisaSpeedLimitSignType:1
-CurvDecelOption:1
+CurvDecelOption:2
 AutoRESDelay:9
 LaneWidth:36
 CloseToRoadEdge:1
