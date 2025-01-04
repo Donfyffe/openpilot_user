@@ -28,8 +28,8 @@ AutoResCondition:1
 UFCModeEnabled:1
 KisaUIBrightnessOff:40
 AutoEnableSpeed:0
-LCTimingKeepFactorLeft:4
-LCTimingKeepFactorRight:5
+LCTimingKeepFactorLeft:0.04
+LCTimingKeepFactorRight:0.05
 VCurvSpeedC:30,50,70,90
 VCurvSpeedT:43,58,73,87
 VCurvSpeedCMPH:20,30,40,50,60
