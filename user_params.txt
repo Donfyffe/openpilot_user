@@ -9,7 +9,7 @@ PutPrebuiltOn:1
 IsMetric:0
 LateralControlMethod:3
 CruiseStatemodeSelInit:3
-TorqueKp:4
+TorqueKp:7
 TorqueKf:10
 TorqueKi:1
 TorqueFriction:60
