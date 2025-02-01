@@ -37,7 +37,7 @@ VCurvSpeedTMPH:24,35,46,57,68
 OCurvSpeedC:20,30,40,50,60
 OCurvSpeedT:27,36,46,60,75
 OSMCustomSpeedLimitC:25,35,45,55,65,70
-OSMCustomSpeedLimitT:25,40,51,62,73,79
+OSMCustomSpeedLimitT:25,40,50,60,70,77
 KisaSpeedLimitOffsetOption:3
 KisaSpeedLimitSignType:1
 CurvDecelOption:2
@@ -53,8 +53,8 @@ KISASpeedBump:1
 KISAEarlyStop:1
 DoNotDisturbMode:2
 CruiseGapBySpdOn:1
-CruiseGapBySpdSpd:45,85,130
-CruiseGapBySpdGap:1,1,2,2
+CruiseGapBySpdSpd:25,45,85
+CruiseGapBySpdGap:2,2,1,1
 CruiseSetwithRoadLimitSpeedEnabled:1
 CruiseSetwithRoadLimitSpeedOffset:5
 KisaLiveTorque:1
