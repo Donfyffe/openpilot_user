@@ -56,7 +56,7 @@ CruiseGapBySpdOn:1
 CruiseGapBySpdSpd:25,50,75
 CruiseGapBySpdGap:2,1,1,1
 KisaLiveTorque:1
-CruiseSpammingSpd:25,50,70
+CruiseSpammingSpd:25,50,75
 CruiseSpammingLevel:4,3,2,1
 KisaCruiseGapSet:4
 UseLegacyLaneModel:2
