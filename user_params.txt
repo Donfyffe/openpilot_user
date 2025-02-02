@@ -7,6 +7,8 @@ KisaLaneChangeSpeed:20
 KisaAutoLaneChangeDelay:3
 PutPrebuiltOn:1
 IsMetric:0
+KisaSteerMethod:0
+LanelessMode:1
 LateralControlMethod:3
 CruiseStatemodeSelInit:3
 TorqueKp:7
@@ -37,7 +39,7 @@ VCurvSpeedTMPH:27,36,46,60,75
 OCurvSpeedC:20,30,40,50,60
 OCurvSpeedT:27,36,46,60,75
 OSMCustomSpeedLimitC:25,35,45,55,65,70
-OSMCustomSpeedLimitT:30,42,55,65,74,82
+OSMCustomSpeedLimitT:30,42,55,66,74,82
 KisaSpeedLimitOffsetOption:3
 KisaSpeedLimitSignType:1
 CurvDecelOption:2
