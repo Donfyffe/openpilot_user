@@ -36,8 +36,8 @@ VCurvSpeedCMPH:20,30,40,50,60
 VCurvSpeedTMPH:24,35,46,57,68
 OCurvSpeedC:20,30,40,50,60
 OCurvSpeedT:27,36,46,60,75
-OSMCustomSpeedLimitC:25,35,45,55,65,70
-OSMCustomSpeedLimitT:25,40,50,60,70,77
+OSMCustomSpeedLimitC:25,45,70
+OSMCustomSpeedLimitT:25,50,77
 KisaSpeedLimitOffsetOption:3
 KisaSpeedLimitSignType:1
 CurvDecelOption:2
